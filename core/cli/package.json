@@ -25,6 +25,7 @@
   },
   "gitHead": "6cb954c4c83c0852b41a5923af9b4ca33f67dae8",
   "dependencies": {
+    "@hsg-cli/utils": "file:../../utils/utils",
     "import-local": "^3.1.0",
     "npmlog": "^7.0.1"
   }
