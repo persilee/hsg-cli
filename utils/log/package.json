@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/persilee/hsg-cli/issues"
+  },
+  "dependencies": {
+    "npmlog": "^7.0.1"
   }
 }
